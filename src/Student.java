@@ -9,6 +9,8 @@ public class Student {
         this.name = name;
         this.surname = surname;
         this.id = lastId++;
+
+
     }
 
     public int getId() {
